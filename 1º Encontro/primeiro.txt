@@ -1,0 +1,39 @@
+    languages: 
+
+    high performance:
+
+    c++ - games and desktop apps
+    c# (c sharp) - games, desktop apps
+    c - games, desktop apps (first one)
+    java - apps (android, desktop)
+    swift (apple developed) - apps (ios)
+
+    others
+
+    python - multi purpose language (databases (data science), desktop/mobile apps, games, web, etc.)
+    javascript (mobile apps, web apps)
+    ruby (web)
+    html/css (not programming languages) 
+
+
+    
+common knowloagde
+integer (int):
+ 1, 2, 5, 7 9128
+
+string
+"string"
+
+float 
+1.75
+
+boolean
+true, false
+
+variavel = 10
+
+print(type(variavel))
+
+memoria:
+
+binario -> 0, 1
